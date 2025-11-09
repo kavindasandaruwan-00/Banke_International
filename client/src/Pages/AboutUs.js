@@ -5,7 +5,7 @@ import AboutUs3 from '../Images/AboutUs3.png';
 import AboutUs4 from '../Images/AboutUs4.png';
 import Home8 from '../Images/Home8.png';
 import { Box, Typography } from '@mui/material';
-import { Radio, RadioGroup, FormControlLabel, Button, FormLabel } from "@mui/material";
+import { Radio, RadioGroup, FormControlLabel, Button } from "@mui/material";
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 export default function AboutUs() {
